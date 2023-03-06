@@ -1,4 +1,4 @@
-# Import required libraries and packages.
+# Import required packages and libraries.
 import numpy as np
 from tensorflow.keras.layers import (Input, Dense, Dropout, Activation, AveragePooling3D, BatchNormalization, Conv3D, Flatten, concatenate, GlobalAveragePooling3D, ReLU)
 from tensorflow.keras.optimizers import Nadam
